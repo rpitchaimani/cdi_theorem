@@ -1,0 +1,6 @@
+{
+  "target": "192.168.10.1",
+  "t_sent": 1777465028.9505157,
+  "ids_blind": true,
+  "_note": "Lateral-movement step. Real observables only: t_sent is the send timestamp and ids_blind records that the mirrored-port input went silent. Per-window capacity is computed by python/cdi_compute.py, not stored here. Exploit parameters are withheld (see paper, Ethical Considerations)."
+}

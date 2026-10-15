@@ -1,0 +1,413 @@
+{
+  "target": "192.168.10.1",
+  "payload_size": 4096,
+  "fragment_size": 8,
+  "num_fragments": 512,
+  "payload_entropy": 7.958708512567468,
+  "baseline_rtt_us": 7209.467887878418,
+  "bursts_total": 50,
+  "ids_alert_windows": 50,
+  "ids_confirmed": true,
+  "log": [
+    {
+      "burst": 0,
+      "timestamp": 1777464775.120533,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4299.640655517578
+    },
+    {
+      "burst": 1,
+      "timestamp": 1777464776.5380068,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 3966.093063354492
+    },
+    {
+      "burst": 2,
+      "timestamp": 1777464777.941765,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 3591.775894165039
+    },
+    {
+      "burst": 3,
+      "timestamp": 1777464779.368631,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 3995.8953857421875
+    },
+    {
+      "burst": 4,
+      "timestamp": 1777464780.763078,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4784.584045410156
+    },
+    {
+      "burst": 5,
+      "timestamp": 1777464782.1516013,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4319.429397583008
+    },
+    {
+      "burst": 6,
+      "timestamp": 1777464783.531023,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4127.740859985352
+    },
+    {
+      "burst": 7,
+      "timestamp": 1777464784.923111,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4520.177841186523
+    },
+    {
+      "burst": 8,
+      "timestamp": 1777464786.3326237,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4490.852355957031
+    },
+    {
+      "burst": 9,
+      "timestamp": 1777464787.7345464,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4596.471786499023
+    },
+    {
+      "burst": 10,
+      "timestamp": 1777464789.126154,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4087.686538696289
+    },
+    {
+      "burst": 11,
+      "timestamp": 1777464790.6089947,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4316.806793212891
+    },
+    {
+      "burst": 12,
+      "timestamp": 1777464792.0431435,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4212.141036987305
+    },
+    {
+      "burst": 13,
+      "timestamp": 1777464793.474665,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 5810.737609863281
+    },
+    {
+      "burst": 14,
+      "timestamp": 1777464794.8962357,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4072.904586791992
+    },
+    {
+      "burst": 15,
+      "timestamp": 1777464796.2946322,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4401.445388793945
+    },
+    {
+      "burst": 16,
+      "timestamp": 1777464797.7050965,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4186.6302490234375
+    },
+    {
+      "burst": 17,
+      "timestamp": 1777464799.119502,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4564.762115478516
+    },
+    {
+      "burst": 18,
+      "timestamp": 1777464800.5444064,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4157.543182373047
+    },
+    {
+      "burst": 19,
+      "timestamp": 1777464802.0712752,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4330.873489379883
+    },
+    {
+      "burst": 20,
+      "timestamp": 1777464803.5079699,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4544.734954833984
+    },
+    {
+      "burst": 21,
+      "timestamp": 1777464804.9237268,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4668.712615966797
+    },
+    {
+      "burst": 22,
+      "timestamp": 1777464806.3677013,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 5290.985107421875
+    },
+    {
+      "burst": 23,
+      "timestamp": 1777464807.8002057,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 3713.846206665039
+    },
+    {
+      "burst": 24,
+      "timestamp": 1777464809.2428365,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4771.47102355957
+    },
+    {
+      "burst": 25,
+      "timestamp": 1777464810.6810255,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4975.557327270508
+    },
+    {
+      "burst": 26,
+      "timestamp": 1777464812.2323248,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 5095.243453979492
+    },
+    {
+      "burst": 27,
+      "timestamp": 1777464813.6775439,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4464.626312255859
+    },
+    {
+      "burst": 28,
+      "timestamp": 1777464815.137119,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4414.796829223633
+    },
+    {
+      "burst": 29,
+      "timestamp": 1777464816.7078319,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4692.316055297852
+    },
+    {
+      "burst": 30,
+      "timestamp": 1777464818.1372108,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 5436.65885925293
+    },
+    {
+      "burst": 31,
+      "timestamp": 1777464819.588835,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 5131.48307800293
+    },
+    {
+      "burst": 32,
+      "timestamp": 1777464821.0783622,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4136.323928833008
+    },
+    {
+      "burst": 33,
+      "timestamp": 1777464822.546654,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4858.0169677734375
+    },
+    {
+      "burst": 34,
+      "timestamp": 1777464823.9784603,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4927.158355712891
+    },
+    {
+      "burst": 35,
+      "timestamp": 1777464825.6313004,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 5801.677703857422
+    },
+    {
+      "burst": 36,
+      "timestamp": 1777464827.0777943,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4056.4537048339844
+    },
+    {
+      "burst": 37,
+      "timestamp": 1777464828.5338116,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4516.6015625
+    },
+    {
+      "burst": 38,
+      "timestamp": 1777464829.9505641,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4611.25373840332
+    },
+    {
+      "burst": 39,
+      "timestamp": 1777464831.3725684,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4302.501678466797
+    },
+    {
+      "burst": 40,
+      "timestamp": 1777464832.7951546,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4818.67790222168
+    },
+    {
+      "burst": 41,
+      "timestamp": 1777464834.277968,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 5824.804306030273
+    },
+    {
+      "burst": 42,
+      "timestamp": 1777464835.801721,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4807.472229003906
+    },
+    {
+      "burst": 43,
+      "timestamp": 1777464837.2085884,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4429.340362548828
+    },
+    {
+      "burst": 44,
+      "timestamp": 1777464838.6570623,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4161.596298217773
+    },
+    {
+      "burst": 45,
+      "timestamp": 1777464840.069968,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4684.209823608398
+    },
+    {
+      "burst": 46,
+      "timestamp": 1777464841.4923675,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 5044.221878051758
+    },
+    {
+      "burst": 47,
+      "timestamp": 1777464843.1031098,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4245.281219482422
+    },
+    {
+      "burst": 48,
+      "timestamp": 1777464844.5595047,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4486.560821533203
+    },
+    {
+      "burst": 49,
+      "timestamp": 1777464845.9775977,
+      "fragments_sent": 512,
+      "payload_entropy": 7.958708512567468,
+      "baseline_rtt_us": 7209.467887878418,
+      "attack_rtt_us": 4598.855972290039
+    }
+  ]
+}

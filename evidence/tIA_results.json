@@ -1,0 +1,20 @@
+{
+  "scan_start": 1777464613.497329,
+  "scan_end": 1777464615.873346,
+  "hosts_found": [
+    {
+      "ip": "192.168.10.1",
+      "mac": "02:00:00:00:00:01"
+    },
+    {
+      "ip": "192.168.10.2",
+      "mac": "74:da:38:a0:0b:b9"
+    }
+  ],
+  "primary_target": "192.168.10.1",
+  "target_mac": "02:00:00:00:00:01",
+  "target_rtt_us": 0,
+  "target_ttl": 0,
+  "stack": "LwIP/MPC5748G",
+  "arp_burst_count": 40
+}
